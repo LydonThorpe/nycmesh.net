@@ -4,43 +4,24 @@ title: "Grand Street Guild"
 ---
 **Last updated**
 
-6:30pm Jan 2, 2024
-
-**Apartment installs**
+7:00pm Aug 22, 2024
  
-Active apartment installs: 192  
+Active apartment installs: 221  
 
-460: 78   
-410: 58   
-131: 56   
+460: 87   
+410: 65   
+131: 69   
 
 **Total active installs**
 
 2 community computers   
 9 access points (outdoor, community, laundry)   
-192 apartments  
+221 apartments  
 
-213 Total 
+232 Total 
+ 
 
-**Past Week Installs (7)**
-
-2023:  
- Dec 27 410-26F  
- Dec 28 410-20E  
- Dec 28 460-15H  
- Dec 29 410-26C  
- Dec 29 131-08F  
-
-2024:   
- Jan 01 460-07C  
- Jan 01 131-08F  
-
-
-**Community room computers removed**
-
-Two community room computers were added on April 25th
-
-These have been moved to 151 Mesh Room as requested by Catholic Charities. 
+**Community room computers**
 
 
 **Laundry installs (active)**
@@ -52,7 +33,7 @@ These have been moved to 151 Mesh Room as requested by Catholic Charities.
 
 **Fiber bypass August 2023**
 
-Fiber is now running as before through underground conduits. The fiber bypass has been removed and the POE sealed.
+Fiber is now running as before through underground conduits. The fiber bypass has been removed and the POE sealed
 
 **Recent apartment speed tests**
 
@@ -67,7 +48,7 @@ https://www.speedtest.net/result/14527726621
 
 New installs using the new Ubiquiti WiFi6 ONT, combined fiber ONT and wifi router, with speeds close to 700Mbps.  
 
-59 WiFi6 devices installed so far
+All new installs and many older installs are now WiFi6 devices. We've been gradually replacing the original Locos with Wifi6 as these require less support
 
 Recent WiFi test-  
 https://www.speedtest.net/result/13730130631
@@ -79,15 +60,16 @@ Fiber from 131 Broome to 111 8th POP exiting in building. DE-CIX IXP and Pilot t
 **Backup connections**
 
 - 10 Gigabit wireless (Siklu) to 303 Vernon. 
+- 1 Gigabit wireless (AF24) to SN1
 
-**Recent upgrades**
+**Planned upgrades**
 
-March 25, 2023: Additional hardware has been added at 111 8th POP and backhaul is now exiting in the same building. This has resulted in a speed increase at GSG, with no downtime.
+September 2024 we will be upgrading the router at 111 8th Ave which will help with multiple gigabit connections in the new 165 Broome Street buildings. 
 
 
 **Fiber Install Leaders**  
 
-Marco
+Sean
 
 
 
