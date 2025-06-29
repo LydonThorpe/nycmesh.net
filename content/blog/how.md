@@ -30,13 +30,13 @@ Guifi began on farms and gradually expanded across the country. They use hundred
 
 NYC Mesh has done many presentations that explain what we are doing. You can [watch videos and see the slides here.](/blog/presentations)
 
-NYC Mesh docs site is comprehensive- [NYC Mesh docs](https://docs.nycmesh.net/)
+NYC Mesh wiki docs site is comprehensive- [NYC Mesh wiki](https://wiki.nycmesh.net/)
 
-We try to keep a [list](https://www.meshcenter.org/networks/) of Mesh network when we accross one. If you find an active Community Wifi Network not on the list, drop us a line and we'll add it. 
+We keep a [list of community networks](https://wiki.nycmesh.net/books/4-organization-mission/page/list-of-community-networks).
 
 **Essential Reading**
 
-[Telecommnications Reclaimed](https://www.netcommons.eu/sites/default/files/telecom-reclaimed-web-single-page.pdf) is a guide to building a community network. It was written collectively by a group of community network pioneers in Europe in 2018.
+[Telecommunications Reclaimed](https://www.netcommons.eu/sites/default/files/telecom-reclaimed-web-single-page.pdf) is a guide to building a community network. It was written collectively by a group of community network pioneers in Europe in 2018.
 
 [Wireless Networking in the Developing World (WNDW)](http://wndw.net/book.html) is a great free book about designing, implementing, and maintaining low-cost wireless networks. http://wndw.net/book.html. You need to know the basics of wifi and networking. The OSI layers, IPv4, IPv6, 2.4GHz vs 5GHz, wifi modes- infrastructure vs. ad-hoc (which is used by mesh routers) etc. This book covers all of that.
 
@@ -58,7 +58,7 @@ NYC Mesh is a hybrid network of point-to-point, point-to-multipoint (sector ante
 
 For antennas you need higher gain (db) to go long distances. A 19db NanoBeam will go 1km, a 23db LiteBeam will go 3km, and a 33db/38db AirFiber will go 10km. 
 
-Generally for radios, the higher the frequency the faster the connection and the more it is susceptible to weather and objects. Double the frequency and you double the potential data rate. 5GHz wifi is roughly twice as fast as 2.4GHz wifi, but 2.4GHz has better coverage for home wifi as it will go through the internal walls.
+Generally for radios, the higher the frequency the faster the connection and the more it is susceptible to weather and objects. Double the frequency and you double the potential data rate. 5GHz wifi is roughly twice as fast as 2.4GHz wifi. 2.4GHz suffers from interference and should only be used for old or small devices that don't support 5GHz.
 
 -900MHz (Lorawan) will go through a building, very slow speeds  
 -2.4GHz (WiFi) will pass through a wall  
